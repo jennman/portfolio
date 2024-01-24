@@ -7,7 +7,7 @@ const Skills = () => {
   return (
     <section id='skills'>
         <span className='skillTitle'>What I do</span> <br/>
-        <span className='skillDesc'>Dedicated full-stack developer, passionate about bringing creative front-end visions to life. Proficient in the fundamentals with a quick learning pace, eagerly seeking hands-on opportunities to grow and contribute effectively</span>
+        <span className='skillDesc'>Dedicated full-stack developer, I am passionate about bringing creative front-end visions to life. Equipped with a solid foundation, I successfully completed a coding bootcamp at Flatiron, attaining a certificate in full-stack software engineering. Proficient in JavaScript, React, Ruby on Rails, and related tools, I combine expertise with a rapid learning pace. I am enthusiastic about engaging in hands-on opportunities to foster growth and contribute effectively.</span>
         <div className='skillBars'>
             <div className='skillBar'>
                 <img src={UIDesign} alt='UIDesign' className='skillBarImg'/>
